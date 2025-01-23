@@ -1,0 +1,24 @@
+{
+    "ork_legi": {
+        "birimler": {
+            "ork_dovusculeri": 1000,
+            "mizrakcilar": 1000,
+            "varg_binicileri": 1000,
+            "troller": 1000
+        },
+        "arastirma_seviyesi": {
+            "saldiri_gelistirmesi": 3
+        }
+    },
+    "insan_imparatorlugu": {
+        "birimler": {
+            "piyadeler": 1000,
+            "okcular": 1000,
+            "suvariler": 1000,
+            "kusatma_makineleri": 1000
+        },
+        "arastirma_seviyesi": {
+            "savunma_ustaligi": 3
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "insan_imparatorlugu": {
+        "canavarlar": ["Tepegoz"],
+        "arastirma_seviyesi": {
+            "savunma_ustaligi": 3
+        },
+        "birimler": {
+            "kusatma_makineleri": 12,
+            "suvariler": 140,
+            "okcular": 170,
+            "piyadeler": 250
+        },
+        "kahramanlar": ["Alparslan"]
+    },
+    "ork_legi": {
+        "arastirma_seviyesi": {
+            "saldiri_gelistirmesi": 3
+        },
+        "birimler": {
+            "troller": 80,
+            "varg_binicileri": 150,
+            "mizrakcilar": 180,
+            "ork_dovusculeri": 220
+        },
+        "kahramanlar": ["Vrog_Kafakiran"],
+        "canavarlar": ["Ates_Iblisi"]
+    }
+}

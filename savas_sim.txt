@@ -1,0 +1,57 @@
+
+==== Turn 1 ====
+
+INSAN IMPARATORLUGU saldiriyor...
+Toplam Saldiri Gucu: 21300
+Toplam Savunma Gucu: 15800
+Net Hasar: 5500
+INSAN IMPARATORLUGU, ORK LEJYONU IMPARATORLUGU ordusuna 5500 hasar verdi.
+
+ORK LEJYONU IMPARATORLUGU saldiriyor...
+Toplam Saldiri Gucu: 39456
+Toplam Savunma Gucu: 27200
+Net Hasar: 12256
+ORK LEJYONU IMPARATORLUGU, INSAN IMPARATORLUGU ordusuna 12256 hasar verdi.
+
+==== Turn 2 ====
+
+INSAN IMPARATORLUGU saldiriyor...
+Toplam Saldiri Gucu: 16870
+Toplam Savunma Gucu: 14635
+Net Hasar: 2235
+INSAN IMPARATORLUGU, ORK LEJYONU IMPARATORLUGU ordusuna 2235 hasar verdi.
+
+ORK LEJYONU IMPARATORLUGU saldiriyor...
+Toplam Saldiri Gucu: 38256
+Toplam Savunma Gucu: 20928
+Net Hasar: 17328
+ORK LEJYONU IMPARATORLUGU, INSAN IMPARATORLUGU ordusuna 17328 hasar verdi.
+
+==== Turn 3 ====
+
+INSAN IMPARATORLUGU saldiriyor...
+Toplam Saldiri Gucu: 10350
+Toplam Savunma Gucu: 14185
+Net Hasar: 0
+Saldiri etkisiz oldu.
+
+ORK LEJYONU IMPARATORLUGU saldiriyor...
+Toplam Saldiri Gucu: 38256
+Toplam Savunma Gucu: 12016
+Net Hasar: 26240
+ORK LEJYONU IMPARATORLUGU, INSAN IMPARATORLUGU ordusuna 26240 hasar verdi.
+
+==== Turn 4 ====
+
+INSAN IMPARATORLUGU saldiriyor...
+Toplam Saldiri Gucu: 1010
+Toplam Savunma Gucu: 14185
+Net Hasar: 0
+Saldiri etkisiz oldu.
+
+ORK LEJYONU IMPARATORLUGU saldiriyor...
+Toplam Saldiri Gucu: 38256
+Toplam Savunma Gucu: 880
+Net Hasar: 37376
+ORK LEJYONU IMPARATORLUGU, INSAN IMPARATORLUGU ordusuna 37376 hasar verdi.
+INSAN IMPARATORLUGU yenildi!

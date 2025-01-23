@@ -1,0 +1,28 @@
+{
+    "ork_legi": {
+        "kahramanlar": ["Thruk_Kemikkiran"],
+        "arastirma_seviyesi": {
+            "saldiri_gelistirmesi": 2
+        },
+        "birimler": {
+            "ork_dovusculeri": 1,
+            "mizrakcilar": 1,
+            "varg_binicileri": 1,
+            "troller": 1
+        },
+        "canavarlar": ["Kara_Troll"]
+    },
+    "insan_imparatorlugu": {
+        "arastirma_seviyesi": {
+            "savunma_ustaligi": 2
+        },
+        "birimler": {
+            "piyadeler": 1,
+            "okcular": 1,
+            "suvariler": 1,
+            "kusatma_makineleri": 1
+        },
+        "kahramanlar": ["Fatih_Sultan_Mehmet"],
+        "canavarlar": ["Ejderha"]
+    }
+}

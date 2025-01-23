@@ -1,0 +1,24 @@
+{
+    "insan_imparatorlugu": {
+        "birimler": {
+            "piyadeler": 300,
+            "suvariler": 200
+        },
+        "kahramanlar": ["Yavuz_Sultan_Selim"],
+        "canavarlar": ["Tepegoz"],
+        "arastirma_seviyesi": {
+            "savunma_ustaligi": 2
+        }
+    },
+    "ork_legi": {
+        "birimler": {
+            "ork_dovusculeri": 500,
+            "mizrakcilar": 400
+        },
+        "kahramanlar": ["Vrog_Kafakiran"],
+        "canavarlar": ["Ates_Iblisi"],
+        "arastirma_seviyesi": {
+            "saldiri_gelistirmesi": 2
+        }
+    }
+}
